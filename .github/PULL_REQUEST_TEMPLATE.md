@@ -1,12 +1,13 @@
 ### 📝 Wat is er veranderd?
-Beschrijf duidelijk wat je hebt toegevoegd, gewijzigd of verwijderd.
+<!-- Omschrijf hier wat er is veranderd -->
 
-- [ ] Bug opgelost? Beschrijf het probleem
-- [ ] Nieuwe feature? Leg uit wat het doet
+- [ ] Bug opgelost
+- [ ] Nieuwe feature
 
 ### 📌 Issue-nummer (optioneel)
-Verbind met een bestaand issue:  
-Bijvoorbeeld: `Closes #42` of `Fixes #17`
+<!-- Verbind met een bestaand issue:  
+Bijvoorbeeld: `Issue #42` of `Issue #17` -->
+Issue: 
 
 ### ✅ Checklist
 - [ ] Code werkt zoals verwacht
