@@ -8,11 +8,11 @@ assignees: ''
 ---
 
 ### Beschrijving
-Omschrijf je idee of wens.
+<!-- Omschrijf je idee of wens. -->
 
 ### Waarom is deze feature belangrijk?
-Leg uit wat het toevoegt of verbetert.
+<!-- Leg uit wat het toevoegt of verbetert. -->
 
 ### Extra context
-Eventuele aanvullende info.
+<!-- Eventuele aanvullende info. -->
 
