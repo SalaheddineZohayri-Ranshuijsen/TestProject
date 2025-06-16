@@ -8,21 +8,21 @@ assignees: ''
 ---
 
 ### Beschrijving
-Omschrijf het probleem kort.
+<!-- Omschrijf het probleem kort. -->
 
 ### Reproductie stappen
-1. Stap één
+<!-- 1. Stap één
 2. Stap twee
-3. ...
+3. ... -->
 
 ### Verwacht gedrag
-Wat had er moeten gebeuren?
+<!-- Wat had er moeten gebeuren? -->
 
 ### Wat gebeurt er wel?
-Wat gebeurt er nu?
+<!-- Wat gebeurt er nu? -->
 
 ### Screenshots / Logs
-Voeg eventueel toe.
+<!-- Voeg eventueel toe. -->
 
 ### Omgeving
 - Versie:
